@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.jetbrains:annotations-java5:15.0">
+    <archive path="/home/alexandre/.m2/repository/org/jetbrains/annotations-java5/15.0/annotations-java5-15.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.0.1">
+    <archive path="/home/alexandre/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.0.1/junit-jupiter-api-5.0.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.0.1">
+    <archive path="/home/alexandre/.m2/repository/org/junit/platform/junit-platform-commons/1.0.1/junit-platform-commons-1.0.1.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.0.0">
+    <archive path="/home/alexandre/.m2/repository/org/opentest4j/opentest4j/1.0.0/opentest4j-1.0.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
